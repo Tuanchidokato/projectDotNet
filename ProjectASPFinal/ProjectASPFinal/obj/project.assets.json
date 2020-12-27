@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Quang Huynh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\HKII_2020\\DotNet\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
+      "projectUniqueName": "C:\\Users\\Quang Huynh\\Documents\\GitHub\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
       "projectName": "ProjectASPFinal",
-      "projectPath": "E:\\HKII_2020\\DotNet\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\HKII_2020\\DotNet\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\obj\\",
+      "projectPath": "C:\\Users\\Quang Huynh\\Documents\\GitHub\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
+      "packagesPath": "C:\\Users\\Quang Huynh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Quang Huynh\\Documents\\GitHub\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Quang Huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
