@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VS\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
+      "projectUniqueName": "E:\\HKII_2020\\DotNet\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
       "projectName": "ProjectASPFinal",
-      "projectPath": "E:\\VS\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
+      "projectPath": "E:\\HKII_2020\\DotNet\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\ProjectASPFinal.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\VS\\ProjectASPFinal\\ProjectASPFinal\\obj\\",
+      "outputPath": "E:\\HKII_2020\\DotNet\\projectDotNet\\ProjectASPFinal\\ProjectASPFinal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
